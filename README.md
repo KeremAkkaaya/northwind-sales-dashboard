@@ -27,7 +27,7 @@ This project analyzes sales performance and presents key business insights throu
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png.png)
+![Dashboard](dashboard.png)
 
 ---
 
