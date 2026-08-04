@@ -33,7 +33,7 @@ This project analyzes sales performance and presents key business insights throu
 
 ## 📂 Repository Contents
 
-- Northwind-Sales-Dashboard.pbix.pbix
+- Northwind-Sales-Dashboard.pbix
 - dashboard.png.png
 
 ---
